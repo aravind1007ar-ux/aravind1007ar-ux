@@ -12,9 +12,9 @@ I have a sense of curiosity about how digital systems are attacked and defended 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with  SOAR         | SOC Automation Lab|
+| SOAR-EDR Integration        | <a href="https://github.com/aravind1007ar-ux/Incident-Response-Automation-SOAR-EDR-">Incident Response Automation (SOAR + EDR)</a>|
+| Automated Incident Response    | <a href="https://github.com/aravind1007ar-ux/Incident-Response-Automation-SOAR-EDR-">Incident Response Automation (SOAR + EDR)</a>|
+| Security Automation with SOAR         | <a href="https://github.com/aravind1007ar-ux/Incident-Response-Automation-SOAR-EDR-">Incident Response Automation (SOAR + EDR)</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -64,7 +64,7 @@ I have a sense of curiosity about how digital systems are attacked and defended 
 </div>
 
 ## Projects
-- Incident Response Automation (SOAR + EDR)
+- <a href="https://github.com/aravind1007ar-ux/Incident-Response-Automation-SOAR-EDR-">Incident Response Automation (SOAR + EDR)</a>
 - Active Directory Project
 - SOC Home Lab with ELK SIEM, osTicket, and Attack Simulation
 - T-Pot Honeypot
